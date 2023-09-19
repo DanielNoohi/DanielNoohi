@@ -4,7 +4,7 @@
 <h3 align="center">A passionate IT Specialist from Iran</h3>
 <img src="https://www.lansweeper.com/wp-content/uploads/2018/07/Blog_Image_Base.gif" alt="GIF Image">
 
-- 🔭 I’m currently working as solo VPN entrepreneur [DanielNetwork](https://t.me/v2raynetwork)
+- 🔭 I’m currently working as a solo VPN entrepreneur [DanielNetwork](https://t.me/v2raynetwork)
 
 - 🌱 I’m currently learning **Python**
 
